@@ -1,0 +1,153 @@
+
+Base.png
+size: 463,1079
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_Base_Nimg
+  rotate: false
+  xy: 1, 925
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Blue_Base_closeimg
+  rotate: false
+  xy: 1, 771
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Blue_Baseimg
+  rotate: false
+  xy: 155, 925
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Brown_Base_Nimg
+  rotate: false
+  xy: 309, 925
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Brown_Base_closeimg
+  rotate: false
+  xy: 1, 617
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Brown_Baseimg
+  rotate: false
+  xy: 155, 771
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Green_Base_Nimg
+  rotate: false
+  xy: 309, 771
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Green_Base_closeimg
+  rotate: false
+  xy: 1, 463
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Green_Baseimg
+  rotate: false
+  xy: 155, 617
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Pink_Base_Nimg
+  rotate: false
+  xy: 309, 617
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Pink_Base_closeimg
+  rotate: false
+  xy: 1, 309
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Pink_Baseimg
+  rotate: false
+  xy: 155, 463
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Purple_Base_Nimg
+  rotate: false
+  xy: 309, 463
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Purple_Base_closeimg
+  rotate: false
+  xy: 1, 155
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Purple_Baseimg
+  rotate: false
+  xy: 155, 309
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+White_Base_Nimg
+  rotate: false
+  xy: 309, 309
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+White_Base_closeimg
+  rotate: false
+  xy: 1, 1
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+White_Baseimg
+  rotate: false
+  xy: 155, 155
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Yellow_Base_Nimg
+  rotate: false
+  xy: 309, 155
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Yellow_Base_closeimg
+  rotate: false
+  xy: 155, 1
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Yellow_Baseimg
+  rotate: false
+  xy: 309, 1
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+Stripe_effect_arrow.png
+size: 775,851
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stripe_effect_0000
+  rotate: false
+  xy: 1, 1
+  size: 244, 849
+  orig: 244, 849
+  offset: 0, 0
+  index: -1
+Stripe_effect_0003
+  rotate: true
+  xy: 246, 317
+  size: 533, 528
+  orig: 533, 528
+  offset: 0, 0
+  index: -1
